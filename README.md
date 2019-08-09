@@ -1,4 +1,4 @@
-# Twitter-bot for speedtest CNT ISP
+# Twitter-bot for speedtest your ISP
 
 Скрипт запускает из себя `speedtest` c параметром  `--simple` и
  если скорость ниже чем положено шлет пост в твиттер.
