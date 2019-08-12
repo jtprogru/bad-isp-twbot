@@ -1,9 +1,14 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# Copyright 2017 Savin Mihael
+# coding=utf-8
+# Created by JTProgru
+# Date: 2017
 # Simple Twitter-bot for posting
 # speedtest information about my work ISP
+# https://jtprog.ru/
 
+__author__ = 'jtprogru'
+__version__ = '0.0.1'
+__author_email__ = 'mail@jtprog.ru'
 
 import os
 import csv
