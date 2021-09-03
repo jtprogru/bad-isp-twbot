@@ -1,2 +1,2 @@
 speedtest-cli==2.1.1
-twitter==1.18.0
+twitter==1.19.3
