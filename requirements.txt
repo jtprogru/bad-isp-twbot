@@ -1,2 +1,2 @@
-speedtest-cli==2.1.1
 twitter==1.19.3
+speedtest-cli==2.1.3
